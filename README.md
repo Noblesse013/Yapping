@@ -44,8 +44,8 @@ The system identifies "yapping" podcasts using:
 
 ## 📊 Results
 
-![Confusion Matrix](./images/confusion_matrix.png)
-![Feature Importance](./images/feature_importance.png)
+![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](images/feature_importance.png)
 
 The model achieves 99%+ accuracy with balanced datasets.
 
