@@ -1,0 +1,11 @@
+# Requirements
+kagglehub
+pandas
+numpy
+requests
+beautifulsoup4
+textstat
+scikit-learn
+matplotlib
+seaborn
+joblib
